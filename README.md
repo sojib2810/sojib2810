@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 # Hi, I'm Sojib Ahmed (Arian) 👋
 
 **AI & Automation Engineer** building practical AI-powered applications, agentic workflows, and business automation systems.
